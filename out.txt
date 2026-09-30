@@ -1,0 +1,39 @@
+﻿(x) "Labour" means a worker or employee or a person employed with any job title who performs a physical or intellectual work for the employer.
+(y) "Labour supplier" means a person or body having obtained the license pursuant to Chapter 11 to supply labours.
+(z) "Strike" means a situation where labours collectively refuse to perform their regular work partially or completely. Provided that a situation where labours are on leave or stopped the work as a result of the occurrence of an immediate danger or have become unable to attend or perform the work due to a situation beyond the control of labours shall not be considered as a strike.
+Chapter-2 Basic Provisions Relating to Labours
+3. To remain as minimum standards: (1) This Act shall remain as minimum standards for labours and on matters relating to labours.
+(2) Where an employment contract is entered into between an employer and a labour with provisions to pay or receive remuneration or benefits lesser than the remuneration or benefits set forth in this Act and the rules framed under this Act or in contravention of the conditions set forth in this Act, such an employment contract shall be deemed to be contrary to this Act, and it shall, to that extent, be void.
+4. Prohibition on employing in forced labour: (1) No person shall employ any labour in forced labour, directly or indirectly.
+(2) Notwithstanding anything contained in sub-section (1), the following work or service performed by a labour shall not be deemed to be forced labour:
+(a) Any work or service required to be performed under the duties of citizens as and when the nation so requires,
+(b) Any work or service required to be performed by any person in consideration for the sentence imposed by a decision or order of a court,
+=====
+(c) Any work or service required to be performed as a member of a community for the interest of such a community. Explanation: For the purpose of this Section, "forced labour" means any work or service performed by any labour against his or her will as a result of a threat of taking any action having financial, physical or mental impact if he or she does not perform such a work or service.
+5. Prohibition on employment of children: No person shall so employ a child in any work as to be contrary to law.
+6. Prohibition on discrimination: (1) No employer shall discriminate any labour on the ground of religion, colour, sex, caste, tribe, origin, language, ideological conviction or other similar ground.
+(2) Notwithstanding anything contained in sub-section (1), the following act shall not be considered as discrimination:
+(a) To give preference to any person for employment on the basis of inherent requirement of a work or service,
+(b) To engage a female labour who is pregnant in any work or service which is easier and suitable to her physical condition, without any reduction in the remuneration and benefits, or
+(c) To give preference to a labour with physical disability for such job responsibility as is suitable to his or her physical condition.
+7. Prohibition on discrimination in remuneration for equal work: (1) No discrimination shall be made between the labours in remuneration for equal value of work on the ground of sex.
+(2) For the purpose of sub-section (1), whether the work is of equal value shall be determined on the basis of the nature of the concerned work, the time required for its performance, labour, skill and productivity.
+8. Right relating to trade union: (1) Every labour shall, subject to this Act and other laws, have a right to form and operate a trade union, acquire the membership of, or get affiliated with, such union or involve in other activities relating to trade union.
+(2) While exercising the right relating to labour pursuant to this Act and other laws, the labour shall be dutiful and responsible towards the employer.
+46 sections
+'' | 'Himalayan Tech Solutions Pvt. Ltd.\nEMPLOYEE HANDBOOK\nKathmandu, Nepal\n'
+'1. Welcome > 1.1 About Himalayan Tech Solutions Pvt. Ltd.' | 'Himalayan Tech Solutions Pvt. Ltd., a company registered under the Com'
+'1. Welcome > 1.2 Purpose of this Handbook' | 'This handbook is intended to help every employee understand the compan'
+'1. Welcome > 1.3 Nature of Employment' | 'Employment with the company is governed by a written employment contra'
+'2. Legal Framework Governing This Handbook' | 'This handbook has been drafted with reference to the following princip'
+'3. Workplace Commitments > 3.1 Equal Opportunity and Non-Discrimination' | 'The company is an equal opportunity employer. Recruitment, placement, '
+'3. Workplace Commitments > 3.2 Prevention of Sexual Harassment at the Workplace' | 'The company is committed to a workplace free of sexual harassment, con'
+'3. Workplace Commitments > 3.3 Drug-Free and Alcohol-Free Workplace' | 'Employees may not possess, distribute, or be under the influence of al'
+'3. Workplace Commitments > 3.4 Open-Door Policy and Workplace Dignity' | 'The company encourages employees to raise concerns early, directly, an'
+'4. Employment Classification and Contracts' | 'Section 10 of the Labour Act recognises the following categories of em'
+'4. Employment Classification and Contracts > 4.1 Probationary Period' | 'A newly hired employee may be placed on probation for a period of up t'
+'4. Employment Classification and Contracts > 4.2 Personnel Records' | 'The company maintains a personnel file for each employee, containing t'
+sexualharassment 0
+ofup 0
+anyjob 0
+achild 0

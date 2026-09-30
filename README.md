@@ -1,2 +1,3 @@
-# hr-compliance-rag
-A production level RAG pipeline
+# Production RAG Project
+
+Phase 1 (ingestion) skeleton. See project mentoring notes for architecture rationale.

@@ -4,6 +4,8 @@ __pycache__/
 *.egg-info/
 .venv/
 venv/
+.pytest_cache/
+.ruff_cache/
 
 # Secrets & env
 .env
@@ -11,8 +13,6 @@ venv/
 # OS
 .DS_Store
 
-# Large/binary source documents — see data/README.md for why these
-# are kept out of version control and how to regenerate them
-data/handbook/*.docx
-data/labor-law/*.pdf
-!data/**/.gitkeep
+# Generated data and eval output (rebuilt by running the pipeline / evals)
+data/processed/
+evals/results/
