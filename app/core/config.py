@@ -5,7 +5,7 @@ from pydantic_settings import BaseSettings, SettingsConfigDict
 
 class Settings(BaseSettings):
     # --- Chunking ---
-    chunk_size: int = 800
+    chunk_size: int = 1200
     chunk_overlap: int = 120
 
     # --- Models ---

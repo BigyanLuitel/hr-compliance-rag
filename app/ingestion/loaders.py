@@ -107,6 +107,8 @@ def load_docx(file_path: Path) -> list[Section]:
 
         if in_toc or text.lower().startswith(PLACEHOLDER_PREFIXES):
             continue
+        if text.lower().startswith("acknowledgement of receipt"):
+            break  # everything after this is the sign-off form
         buffer.append(text)
 
     flush()
