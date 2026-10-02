@@ -1,11 +1,25 @@
-﻿294 chunks | unique ids: 294
-Counter({'law': 241, 'handbook': 53})
-law sections covered: 183 (expect 183) | missing: []
-real tokens: max 304 | over 512: 0
---- chunks under 150 chars ---
-1 | Labour Act 2074 > Chapter-1 Preliminary > Section 1. Short title and commencement | '1. Short title and commencement: (1) This Act may be cited as the "Labour Act, 2017 (2074)."\n(2) This Act shall commence forthwith.'
-5 | Labour Act 2074 > Chapter-2 Basic Provisions Relating to Labours > Section 5. Prohibition on employment of children | '5. Prohibition on employment of children: No person shall so employ a child in any work as to be contrary to law.'
-20 | Labour Act 2074 > Chapter-5 Provisions Relating to Part-Time Labours > Section 20. Not to restrain from working elsewhere | '20. Not to restrain from working elsewhere: No part time labour shall be restrained from working elsewhere.'
-40 | Labour Act 2074 > Chapter-9 Provisions Relating to Leave > Section 40. Weekly leave | '40. Weekly leave: A labour shall get the weekly leave of one day in each month.'
-67 | Labour Act 2074 > Chapter-11 Provisions Relating to Supply of Labours > Section 67. Prohibition on collecting fee from labour | '67. Prohibition on collecting fee from labour: No labour supplier shall collect any kind of fee or commission from any labour whom it has supplied.'
-160 | Labour Act 2074 > Chapter-22 Provisions Relating to Labour Court > Section 160. Procedures of the cases | '160. Procedures of the cases: Other provisions relating to the procedures of the cases to be filed in the Labour Court shall be as prescribed.'
+﻿
+Q: How much weekly leave do employees get?
+  0.781 | Labour Act 2074 > Chapter-9 Provisions Relating to Leave > Section 40. Weekly leave
+  0.728 | Employee Handbook > 7. Leave Entitlements (part 1 of 2)
+  0.718 | Employee Handbook > 5. Working Hours, Attendance and Overtime > 5.1 Standard Working Hours
+
+Q: What is the maximum overtime per week?
+  0.750 | Employee Handbook > 5. Working Hours, Attendance and Overtime > 5.2 Overtime
+  0.700 | Employee Handbook > 5. Working Hours, Attendance and Overtime > 5.1 Standard Working Hours
+  0.673 | Labour Act 2074 > Chapter-7 Provisions Relating to Working Hours > Section 30. Provisions relating to overtime
+
+Q: Is forced labour allowed?
+  0.763 | Labour Act 2074 > Chapter-2 Basic Provisions Relating to Labours > Section 4. Prohibition on employing in forced labour
+  0.704 | Labour Act 2074 > Chapter-5 Provisions Relating to Part-Time Labours > Section 20. Not to restrain from working elsewhere
+  0.702 | Labour Act 2074 > Chapter-23 Provisions Relating to Complaint, Punishment and Appeal > Section 164. Decision may be made by the Labour Court (part 1 of 2)
+
+Q: What is the company's remote work stipend?
+  0.578 | Employee Handbook > 6. Wages, Benefits and Statutory Deductions > 6.5 Provident Fund, Gratuity and the Social Security Fund (SSF) (part 1 of 2)
+  0.570 | Employee Handbook > 6. Wages, Benefits and Statutory Deductions > 6.2 Payday
+  0.569 | Employee Handbook > 6. Wages, Benefits and Statutory Deductions > 6.5 Provident Fund, Gratuity and the Social Security Fund (SSF) (part 2 of 2)
+
+Q: Section 151
+  0.714 | Labour Act 2074 > Chapter-22 Provisions Relating to Labour Court > Section 151. Formation of Labour Court
+  0.710 | Labour Act 2074 > Chapter-15 Provisions Relating to Inspection > Section 93. Provisions relating to Office and inspectors
+  0.703 | Labour Act 2074 > Chapter-19 Settlement of Collective Disputes > Section 123. Special provisions relating to the submission of collective claims, demands (part 1 of 2)
